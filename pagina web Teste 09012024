@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Página Colorida com Texto</title>
+    <style>
+        body {
+            background-color: #f0f0f0; /* Cor de fundo da página */
+            text-align: center; /* Alinhamento do texto no centro */
+            padding-top: 100px; /* Espaçamento do topo */
+            font-family: Arial, sans-serif; /* Estilo da fonte */
+        }
+        
+        h1 {
+            color: #ff4500; /* Cor do texto */
+            font-size: 36px; /* Tamanho da fonte */
+        }
+    </style>
+</head>
+<body>
+    <h1>Na noite densa, um gato singular vagueia,
+Vampiro por natureza, à luz da lua cheia,
+Seus olhos brilham como o ébano mais profundo,
+Mas seu coração teme o lado sombrio do mundo.
+
+Um felino noturno, sedento por sangue a beber,
+Mas um dilema o faz sofrer, faz seu peito doer.
+Ele caça no escuro, sentindo a fome a crescer,
+Mas o gato vampiro teme ferir e entristecer.
+
+Seus dentes afiados anseiam pela refeição,
+Porém, ele busca outra solução, uma nova direção.
+Recusa-se a causar dor, a infligir qualquer mal,
+Busca uma alternativa para seu instinto ancestral.
+
+Encontra no amor, na compaixão a sua luz guia,
+Evita a dor, encontra uma maneira vazia,
+Sacia-se com frutas vermelhas, sucos que seduzem,
+Sem machucar ninguém, suas presas não reduzem.
+
+Um gato vampiro, no limiar entre escuridão e luz,
+Com dilemas internos, luta com sua própria cruz,
+Convive com a ânsia de alimentar sua essência,
+Mas recusa-se a sacrificar outra existência.
+
+Assim, ele vive na sombra, na quietude da noite,
+Um gato vampiro, uma alma nobre em seu açoite,
+Sem causar dor ou desespero, segue sua sina,
+Com uma fome que o consome, mas a compaixão o ilumina.</h1>
+</body>
+</html>
